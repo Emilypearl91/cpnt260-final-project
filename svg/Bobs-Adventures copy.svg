@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 360 360">
+  <style>
+    .st0{fill:none;stroke:#231f20;stroke-width:6;stroke-miterlimit:10}.st4{font-family:&quot;Arial-Black&quot;}.st5{font-size:12px}
+  </style>
+  <path d="M33.5 50.5h307v223" class="st0"/>
+  <circle cx="155.5" cy="175.5" r="102.5" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="6"/>
+  <path d="M292.4 31.7h27.2v18.8h-27.2z" class="st0"/>
+  <path fill="none" d="M244.4 63.2h87.5v50.1h-87.5z"/>
+  <text transform="translate(244.4 71.8)"><tspan x="0" y="0" class="st4 st5">Bob’s </tspan><tspan x="0" y="14.4" class="st4 st5">Adventures</tspan></text>
+</svg>
