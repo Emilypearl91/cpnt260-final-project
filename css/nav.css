@@ -63,3 +63,31 @@
      color: white;
    } 
  }
+
+ /*footer styling*/
+footer{
+  padding-top: 2rem;
+  height: 3rem;
+  margin-top: 3rem;
+
+  background-color: black;
+}
+
+footer p{
+  margin: auto;
+ text-align: center;
+ padding-top: 3rem;
+}
+
+footer ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+
+  margin: auto;
+}
+
+footer a{
+  
+  color: white;
+}
