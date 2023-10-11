@@ -4,7 +4,7 @@
   
  }
 
- nav ul{
+ nav ul {
    list-style-type: none;
    margin: 0;
    padding: 0;
@@ -27,15 +27,15 @@
  }
 
  /*for desktop*/
- @media (width>500px){
-   nav{
+ @media (width>500px) {
+   nav {
      height: 3rem;
      background-color: black;
      color: white;
      margin-top: 0;
    }
    
-   nav ul{
+   nav ul {
      list-style: none;
      display: flex;
      justify-content: center;
@@ -48,24 +48,27 @@
      
    }
    
-   nav li{
+   nav li {
      display: inline-block;
      
    }
    
-   nav a{
+   nav a {
      text-decoration: none; 
      color: white;
    
    }
    
-   nav a:hover{
+   nav a:hover {
      color: white;
    } 
  }
 
+ /*hero section*/
+ 
+
  /*footer styling*/
-footer{
+footer {
   padding-top: 2rem;
   height: 3rem;
   margin-top: 3rem;
@@ -73,13 +76,13 @@ footer{
   background-color: black;
 }
 
-footer p{
+footer p {
   margin: auto;
  text-align: center;
  padding-top: 3rem;
 }
 
-footer ul{
+footer ul {
   list-style: none;
   display: flex;
   justify-content: space-around;
@@ -87,7 +90,7 @@ footer ul{
   margin: auto;
 }
 
-footer a{
+footer a {
   
   color: white;
 }
