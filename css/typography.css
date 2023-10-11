@@ -1,0 +1,33 @@
+body {
+  line-height: 1.6rem;
+  font-size: 18px;
+  margin: auto;
+  
+}
+
+h2 {
+  padding-top: 5rem;
+  font-size: 26px;
+  line-height: 1.8rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 1.8rem;
+  text-align: center;
+
+}
+
+
+/*Paragraph styling on blog post*/
+p {
+  max-width: 80ch ;
+  margin: auto;
+  padding: 1rem;
+ }
+
+ ul {
+  text-align: center;
+  list-style-type: none;
+ }
