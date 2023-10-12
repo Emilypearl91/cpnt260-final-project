@@ -8,12 +8,12 @@ body {
 
 h1 {
   font-size: 50px;
-  line-height: 2em;
+  line-height: 1.8em;
   font-family: 'Alfa Slab One', serif;
 
   text-align: center;
-  
   margin: 0;
+  padding: 2rem;
 
   color: white;
 }
