@@ -81,10 +81,10 @@
   align-items: center;
  }
 
-img {
+.hero img {
  width: 200px;
  height: 200px;
-  border-radius: 20%;
+ border-radius: 20%;
  }
 
  svg {

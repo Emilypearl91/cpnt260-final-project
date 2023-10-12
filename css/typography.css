@@ -35,6 +35,19 @@ h3 {
   text-align: center;
 }
 
+h4 {
+font-family: 'Alfa Slab One', serif;
+font-size: 18px;
+
+color: white;
+
+line-height: 1.8rem;
+}
+
+.card p {
+  max-width: 40ch;
+  text-decoration: none;
+}
 
 /*Paragraph styling on blog post*/
 p {

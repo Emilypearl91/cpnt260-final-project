@@ -27,6 +27,9 @@ section {
     margin: auto;
   }
 
+ a {
+text-decoration: none;
+}
   
   /*contact form card*/
    .contact-card {
