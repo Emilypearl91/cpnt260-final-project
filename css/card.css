@@ -32,6 +32,11 @@ img {
 a {
   text-decoration: none;
 }
+
+.card:hover {
+  background-color: grey;
+  color: black;
+}
   
 /*contact form card*/
 .contact-card {
@@ -57,7 +62,7 @@ a {
   text-align: center;
 }
 
-/* blog card styling*/
+/* blog card content*/
 
 iframe {
   display: block;
