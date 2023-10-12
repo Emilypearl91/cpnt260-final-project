@@ -1,24 +1,27 @@
  /*for mobile*/
  nav {
   height: 10rem;
-  
+  padding-bottom: 3rem;
  }
 
  nav ul {
-   list-style-type: none;
-   margin: 0;
-   padding: 0;
-   width: 500px;
-   background-color:black;
-   text-align: center;
-   max-width: 100%;
+  list-style-type: none;
+
+  margin: 0;
+  padding: 0;
+   
+  width: 500px;
+  max-width: 100%;
+
+  text-align: center;
+  background-color:black;
  }
  
  nav li a {
-   display: block;
-   color: white;
-   padding: 14px 16px;
-   text-decoration: none;
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
  }
  
  nav li a:hover {
@@ -44,6 +47,7 @@
      background-color: black;
    
      padding: 1rem;
+     padding-top: 2rem;
      height: 3rem;
      
    }
@@ -68,7 +72,7 @@
  .hero {
   background-color: grey;
   background-image: url(/images/turtle-hero-image.jpeg);
-  
+
   max-width: 1500px;
   height: 500px;
  }

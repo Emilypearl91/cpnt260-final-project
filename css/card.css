@@ -30,3 +30,27 @@ section {
     max-height: 300px;
     margin: auto;
   }
+  
+  /*contact form card*/
+   .contact-card {
+    display: flex;
+    flex-direction: column;
+
+    
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    margin-top: 3rem;
+    margin-bottom: 2.5rem;
+    max-width:80ch;
+    
+    height: 300px;
+    padding: 1rem;
+    border-radius: 1rem;
+    
+    background-color: black;
+    color: gray;
+    
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    }
