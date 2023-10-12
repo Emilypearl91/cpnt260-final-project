@@ -8,13 +8,9 @@ section {
 }
 
 .card {
-  margin-left: 2.5rem;
-  margin-right: 2.5rem;
-  margin-top: 3rem;
-  margin-bottom: 2.5rem;
   padding: 1rem;
   
-  max-width:40ch;
+  max-width:60ch;
   border-radius: 1rem;
   
   background-color: black;
@@ -26,10 +22,11 @@ section {
   }
 
   img {
-    max-width:300px;
-    max-height: 300px;
+    max-width:400px;
+    max-height: 400px;
     margin: auto;
   }
+
   
   /*contact form card*/
    .contact-card {
